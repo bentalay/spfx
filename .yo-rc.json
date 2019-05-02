@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.8.1",
+    "libraryName": "scafall",
+    "libraryId": "52e919b9-01a6-45f8-9284-a24181a6e3ed",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

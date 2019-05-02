@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "scafall-client-side-solution",
+    "id": "52e919b9-01a6-45f8-9284-a24181a6e3ed",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/scafall.sppkg"
+  }
+}
